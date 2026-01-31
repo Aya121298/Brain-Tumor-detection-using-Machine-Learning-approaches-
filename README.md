@@ -100,8 +100,6 @@ data/
     └── glioma/
 ```
 
----
-
 ## 🏗️ Model Architecture
 
 The model uses a combination of:
@@ -142,9 +140,6 @@ Softmax (4 classes)
     ↓
 Output (Classification)
 ```
-
-![Model Architecture](images/architecture.png)
-
 ---
 
 ## 🚀 Installation
@@ -248,19 +243,6 @@ python src/evaluate.py --model models/best_model.h5 --test_data data/Testing/
 | Meningioma | 94.8% | 96.1% | 95.4% | 306 |
 | Glioma | 95.3% | 96.7% | 96.0% | 300 |
 
-### Confusion Matrix
-
-![Confusion Matrix](results/confusion_matrix.png)
-
-### Training History
-
-![Training History](results/training_history.png)
-
-### Sample Predictions
-
-![Sample Predictions](results/sample_predictions.png)
-
----
 
 ## 📄 Research Publication
 
@@ -356,9 +338,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📧 Email: Aya.abdelmoniem.afattah@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aya-abdel-moniem-737552214](https://linkedin.com/in/aya-abdel-moniem-737552214)
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 🌐 Portfolio: [Your Portfolio Website]
-
 ---
 
 ## 🙏 Acknowledgments
