@@ -6,9 +6,6 @@
 [![IEEE](https://img.shields.io/badge/Published-IEEE%20ICCA%202024-brightgreen.svg)](https://doi.org/10.1109/ICCA62237.2024.10927964)
 
 > A deep learning-based framework for automated brain tumor classification using MRI images, achieving **96.5% accuracy** in multi-class tumor detection.
-
-![Brain Tumor Detection Banner](images/banner.png)
-
 ---
 
 ## 📋 Table of Contents
