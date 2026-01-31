@@ -4,6 +4,9 @@
 This project applies **AutoKeras**, an AutoML framework, to detect and classify brain tumors from MRI images.  
 It automates model selection and hyperparameter tuning, achieving high accuracy with minimal manual intervention.
 
+## Publication
+- https://doi.org/10.1109/ICCA62237.2024.10927964
+  
 ## Dataset
 - Source: [Kaggle Brain MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
 - Classes: Glioma, Meningioma, Pituitary, No Tumor
